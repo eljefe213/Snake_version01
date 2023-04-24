@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Comic+Neue&display=swap');
+
+.App {
+  height: 100vh;
+  font-family: 'Comic Neue';
+  color: #4C5A69;
+}
+
+.modalApp{
+  text-align: center;
+  font-family: 'Comic Neue';
+}
+
+.game-board{
+  height: 800px;
+  width: 700px;
+  text-align: center;
+  float: right;
+}
+
+.canvasContainer{
+  text-align: right;
+}
+
